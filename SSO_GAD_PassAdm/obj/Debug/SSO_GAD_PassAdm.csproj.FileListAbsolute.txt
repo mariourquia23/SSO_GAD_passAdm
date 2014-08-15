@@ -13,3 +13,18 @@ c:\users\mario urquia\documents\visual studio 2013\Projects\SSO_GAD_PassAdm\SSO_
 c:\users\mario urquia\documents\visual studio 2013\Projects\SSO_GAD_PassAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.pdb
 C:\Users\Mario Urquia\documents\visual studio 2013\Projects\SSO_GAD_PassAdm\SSO_GAD_PassAdm\obj\Debug\preferences.baml
 C:\Users\Mario Urquia\documents\visual studio 2013\Projects\SSO_GAD_PassAdm\SSO_GAD_PassAdm\obj\Debug\preferences.g.cs
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\bin\Debug\SSO_GAD_PassAdm.exe.config
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.exe
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.pdb
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\bin\Debug\SSO_GAD_PassAdm.exe
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\bin\Debug\SSO_GAD_PassAdm.pdb
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.csprojResolveAssemblyReference.cache
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\MainWindow.baml
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\preferences.baml
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\MainWindow.g.cs
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\preferences.g.cs
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\App.g.cs
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm_MarkupCompile.cache
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.g.resources
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.Properties.Resources.resources
+C:\Users\JoseMario\Documents\Visual Studio 2013\Projects\SSO_GAD_passAdm\SSO_GAD_PassAdm\obj\Debug\SSO_GAD_PassAdm.csproj.GenerateResource.Cache
